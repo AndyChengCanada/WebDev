@@ -14,7 +14,7 @@ body{
     padding: 20px;
     border-radius: 10px;
     text-align: center;
-    background-image: url('backgroup.png');
+    background-image: url('backgroud.png');
     background-size: cover;
     transition: backgroud-color 0.3s ease-in-out;
 
